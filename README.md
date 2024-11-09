@@ -2,7 +2,6 @@
 - 👀 I’m driven to explore the unique synergy between business and technology, going beyond their usual parallels to uncover new, innovative intersections
 - 📚 That's why I’m currently a Computer Science and Business Management student
 - 📫 More about me: https://www.linkedin.com/in/laura-zafra-alarcos/
-- 😄 Pronouns: she/her
 - 🌱 Fun fact: I enjoy spending time outdoors in nature and exploring new food experiences
 
 <!---
